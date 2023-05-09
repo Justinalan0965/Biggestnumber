@@ -23,7 +23,7 @@ The following **extensions** are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<iframe src='//gifs.com/embed/Y7DVDO' frameborder='0' scrolling='no' width='370px' height='626px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
