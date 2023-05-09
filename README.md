@@ -2,7 +2,7 @@
 
 ## *Muthu Raj*
 
-**Bigger Number App** (aka *Cal Admission Test*) prompts the user to select which of the two numbers presented is larger.The backgriund color is updated depending upon on if correct number is chosen.New numbers are randomly selected after a user selection.
+**Bigger Number App** (aka *"Cal Admission Test"*) prompts the user to select which of the two numbers presented is larger.The backgriund color is updated depending upon on if correct number is chosen.New numbers are randomly selected after a user selection.
 
 Time spent: **2** hours spent in total
 
